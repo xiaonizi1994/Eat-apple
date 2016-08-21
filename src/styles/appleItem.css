@@ -1,0 +1,35 @@
+.appleItem{
+  margin: 0 20px 10px;
+  border: 1px #ddd solid;
+  padding:15px 10px;
+  overflow: hidden;
+}
+.apple,img{
+  width:50px;
+  height:auto;
+  display: inline-block;
+  float:left
+}
+.info{
+  float: left;
+  text-align: left;
+  margin-left:14px;
+}
+.name{
+  color: #1278A9;
+  font-size: 16px;
+  line-height: 27px;
+  font-family: 黑体;
+}
+.weight{
+  color:#9D9796;
+  font-size: 12px;
+}
+.btn{
+  margin:5px 0;
+  background: #169BD5;
+  width:80px;
+  height:30px;
+  padding:0;
+  float:right;
+}
